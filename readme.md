@@ -22,3 +22,9 @@ Comandos básicos:
 - Push
 - Pull
 - Fecht
+
+5. Workflows 
+
+- Single workflow
+- Git Flow
+- GitHub Flow
