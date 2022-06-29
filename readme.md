@@ -23,6 +23,11 @@ Comandos básicos:
 - Pull
 - Fecht
 
+4. Branching
+
+- Crear nuevo branch `git checkout -b mi_branch`
+- Cambiar de branch `git checkout`
+
 5. Workflows 
 
 - Single workflow
