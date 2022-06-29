@@ -29,5 +29,8 @@ Comandos básicos:
 - Cambiar de branch `git checkout`
 - `git merge`
 
+5. Workflows 
 
-
+- Single workflow
+- Git Flow
+- GitHub Flow
