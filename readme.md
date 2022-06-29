@@ -27,6 +27,8 @@ Comandos básicos:
 
 - Crear nuevo branch `git checkout -b mi_branch`
 - Cambiar de branch `git checkout`
+- `git merge`
+
 
 5. Workflows 
 
