@@ -12,14 +12,13 @@ Comandos básicos:
 - Git diff
 - Git log
 
-2. GitHub
+2. Repo de Git
+
+- Reset
+- Checkout
+
+3. GitHub
 
 - Push
 - Pull
 - Fecht
-
-3. Repo de Git
-
-- Reset
-- Checkout
--
